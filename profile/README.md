@@ -1,8 +1,8 @@
-##Lumina
+# Lumina
 
 Next-generation modular Java server platform.
 
-#Modules
+# Modules
 
 - lumina-api
 - lumina-common
@@ -15,7 +15,7 @@ Next-generation modular Java server platform.
 - lumina-plugin
 - lumina-server
 
-#Goals
+# Goals
 
 - High performance
 - Modular architecture
@@ -23,6 +23,6 @@ Next-generation modular Java server platform.
 - Async-first systems
 - Developer-friendly APIs
 
-#Status
+# Status
 
 Currently in active development.
